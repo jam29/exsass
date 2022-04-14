@@ -9,6 +9,9 @@
     }
   }
   
+  .coco {
+      font-color: red;
+  }
   .square-av {
     @include avatar(100px, $circle: false);
   }
